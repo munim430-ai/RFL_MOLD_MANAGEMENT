@@ -1,0 +1,53 @@
+## Detailed Implementation Prompt for Smart Mold Management System
+
+This prompt provides a comprehensive guide for implementing the Smart Mold Management System, leveraging the provided documentation, insights from open-source solutions, and best practices for real-world deployment with Supabase as the backend and Vercel for frontend hosting.
+
+### 1. Project Overview and Core Objectives
+
+Implement the **Smart Mold Management Web Application** as described in the Product Requirements Document (PRD), Technical Requirements Document, App Flow Document, UI/UX Document, Backend Schema Document, and Implementation Plan Document. The primary goal is to create a robust, mobile-first system for tracking injection molds in plastics production factories using a dual-QR scan workflow. The application must be efficient, intuitive, and capable of operating in industrial environments.
+
+### 2. Technology Stack and Environment Setup
+
+*   **Frontend**: React + Vite + TypeScript, styled with Tailwind CSS. Hosted on **Vercel**.
+*   **Backend & Database**: PostgreSQL database managed by **Supabase**. Utilize Supabase's real-time capabilities, authentication (if user management is added later), and Row Level Security (RLS).
+*   **QR Scanning**: `html5-qr-code` for camera-based scanning.
+*   **QR Generation**: `qrcode.react` for printable labels.
+*   **State Management**: Zustand.
+*   **Routing**: React Router v6.
+*   **Date/Time**: `date-fns`.
+*   **CSV Export**: Papa Parse.
+*   **Icons**: Lucide React.
+
+### 3. Implementation Strategy and Best Practices
+
+#### 3.1. Frontend Development (React, Vite, TypeScript, Tailwind CSS)
+
+1.  **Project Initialization**: Start with a clean React + Vite + TypeScript project. Configure Tailwind CSS for utility-first styling, ensuring responsive design from the outset, prioritizing mobile views for scanning interfaces and adapting to expansive desktop layouts for admin pages.
+2.  **Component-Based Architecture**: Develop UI components following the UI/UX Document, ensuring consistency in design, color system (Green for available, Blue for occupied, Red for repair, Amber for maintenance/zone), and feedback mechanisms (toast notifications, loading skeletons, confirmation dialogs).
+3.  **Navigation**: Implement a standardized bottom tab bar for mobile and a top navigation bar for desktop, as specified in the UI/UX Document.
+4.  **QR Scanning Integration**: Integrate `html5-qr-code` into the `/scan` page. Ensure robust camera handling, including graceful fallbacks and clear instructions for permission denials. The scanning workflow must strictly adhere to the dual-QR process (Mold QR then Rack Position QR) with explicit confirmation steps and comprehensive validation logic (e.g., preventing overwrites, mismatched locations).
+5.  **Data Visualization**: For the `/rack` view, consider using a React grid component (e.g., `react-grid-layout` or a similar library) to visually represent the 3x3 rack structure. Implement interactive cells to display mold details upon selection. Ensure clear visual differentiation using the specified color codes.
+6.  **Offline-First Capability**: Implement the offline capability using `localStorage` to queue store/remove actions when Supabase is unreachable. Display an "offline mode" banner and sync data once the connection is restored. For a more robust solution, explore libraries like PowerSync for advanced offline synchronization.
+
+#### 3.2. Backend Development (Supabase, PostgreSQL)
+
+1.  **Database Schema Implementation**: Create the database tables (`molds`, `rack_positions`, `mold_locations`, `activity_log`) as defined in the Backend Schema Document. Use appropriate data types, primary keys, foreign keys, and constraints.
+2.  **Real-Time Subscriptions**: Enable Supabase's real-time capabilities for the `mold_locations` and `activity_log` tables to ensure immediate updates across all clients.
+3.  **Data Normalization and Triggers**: Implement PostgreSQL triggers or Supabase functions to automatically cast mold IDs to uppercase and manage `updated_at` timestamps.
+4.  **Row Level Security (RLS)**: Configure RLS policies to control data access and ensure security. Even if a single-operator model is used initially, RLS provides a foundation for future role-based access control.
+
+#### 3.3. Real-World Implementation Considerations
+
+1.  **Industrial Environment**: When printing QR labels, use durable, industrial-grade materials (e.g., polyester or anodized aluminum) to withstand the factory environment. Ensure QR codes are placed in easily accessible and well-lit areas.
+2.  **User Training**: Provide clear training for factory operators on the dual-QR workflow, emphasizing the importance of confirmation and the manual input fallback.
+3.  **Monitoring and Auditing**: Regularly review the `activity_log` to audit mold movements and identify potential process improvements.
+4.  **Deployment and CI/CD**: Deploy the frontend to Vercel and set up a CI/CD pipeline to automate the deployment process. Monitor application performance and error logs.
+
+### 4. Open-Source Resources to Leverage
+
+Explore existing open-source projects for inspiration and potential boilerplate code:
+*   **Inventory Management Boilerplates**: Search for "React Supabase inventory tracking" on GitHub for templates that handle CRUD operations and database integration.
+*   **QR Scanning Examples**: Refer to `html5-qr-code` documentation and community examples for best practices in camera integration and scanning logic.
+*   **Offline-First Tutorials**: Look for tutorials on implementing offline-first React applications with Supabase and `localStorage` or sync engines like PowerSync.
+
+By following this detailed implementation prompt and adhering to the provided documentation, you can build a high-quality, reliable Smart Mold Management System that meets the needs of plastics production factories.
