@@ -1,0 +1,103 @@
+{
+ "email": "ctfcplay@gmail.com",
+ "verified": true,
+ "emailrep": {
+  "email": "",
+  "reputation": "",
+  "suspicious": false,
+  "references": 0,
+  "details": {
+   "blacklisted": false,
+   "malicious_activity": false,
+   "malicious_activity_recent": false,
+   "credentials_leaked": false,
+   "credentials_leaked_recent": false,
+   "data_breach": false,
+   "first_seen": "",
+   "last_seen": "",
+   "domain_exists": false,
+   "domain_reputation": "",
+   "new_domain": false,
+   "days_since_domain_creation": 0,
+   "suspicious_tld": false,
+   "spam": false,
+   "free_provider": false,
+   "disposable": false,
+   "deliverable": false,
+   "accept_all": false,
+   "valid_mx": false,
+   "primary_mx": "",
+   "spoofable": false,
+   "spf_strict": false,
+   "dmarc_enforced": false,
+   "profiles": null
+  }
+ },
+ "breachdirectory": {
+  "success": false,
+  "found": 0,
+  "result": null
+ },
+ "haveibeenpwned": null,
+ "hunter": {
+  "data": {
+   "domain": "",
+   "disposable": false,
+   "webmail": false,
+   "accept_all": false,
+   "pattern": "",
+   "organization": "",
+   "country": "",
+   "state": null,
+   "emails": null,
+   "linked_domains": null
+  },
+  "meta": {
+   "results": 0,
+   "limit": 0,
+   "offset": 0,
+   "params": {
+    "domain": "",
+    "company": null,
+    "type": null,
+    "seniority": null,
+    "department": null
+   }
+  }
+ },
+ "ipapi": {
+  "ip": "142.251.184.83",
+  "version": "IPv4",
+  "city": "Mountain View",
+  "region": "California",
+  "region_code": "CA",
+  "country": "US",
+  "country_name": "United States",
+  "country_code": "US",
+  "country_code_iso3": "USA",
+  "country_capital": "Washington",
+  "country_tld": ".us",
+  "continent_code": "NA",
+  "in_eu": false,
+  "postal": "94043",
+  "latitude": 37.4056,
+  "longitude": -122.0775,
+  "timezone": "America/Los_Angeles",
+  "utc_offset": "-0700",
+  "country_calling_code": "+1",
+  "currency": "USD",
+  "currency_name": "Dollar",
+  "languages": "en-US,es-US,haw,fr",
+  "country_area": 9629091,
+  "country_population": 327167434,
+  "asn": "AS15169",
+  "org": "Google LLC"
+ },
+ "intelx": null,
+ "psbdmp": null,
+ "instagram_exists": false,
+ "spotify_exists": false,
+ "twitter_exists": true,
+ "google_search": null,
+ "dns_records": null
+}
