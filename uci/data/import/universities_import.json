@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "0dc87815-276e-4eed-8e23-038b8a8558c3",
+    "name": "KC University",
+    "country_code": "XX",
+    "domain": "kcu.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "edb9efb0-6332-4844-8100-c7da86ed1a68",
+    "name": "Future Education Skip to content Future Education Home About Japan Student Visa Japanese Language School University",
+    "country_code": "JP",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e593bb20-e07b-4089-bb8b-27bebd07fcd7",
+    "name": "Services Japan Tourist Visa Japan Business Visa Our Story Contact University",
+    "country_code": "JP",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "dd144f63-b521-4ac2-a744-e201a6e0ca90",
+    "name": "Why Study at a Japanese University",
+    "country_code": "JP",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c9008810-a1c2-4044-b813-9fb5ecc6fa91",
+    "name": "How to Apply Choose a University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3106591c-9a25-4611-9205-0e0519c85523",
+    "name": "Popularity Popularity THE World University Rankings University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "62b1168a-5f23-499e-ad3b-d6f407d5f7c2",
+    "name": "University of Cambridge",
+    "country_code": "GB",
+    "domain": "cam.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "829bb4b6-b0cf-4e6a-b11e-d863b1a63f10",
+    "name": "View details California State University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "63d2fe26-c27b-470c-a066-968bc2763b7c",
+    "name": "English Courses available View details James Madison University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "400fdcaa-a43f-4bb9-943d-4e583824c97f",
+    "name": "English Courses available View details Bentley University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "11d38f55-e435-401d-a05d-5a6609709821",
+    "name": "English Courses available View details Vanderbilt University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4aee8b10-f7cc-41a5-9de5-edf8596f7971",
+    "name": "English Courses available View details University of Essex International College",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "79ca4134-2f53-4ba1-ba60-2f02d8caeb31",
+    "name": "English Courses available View details Rhode Island School of",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "44104eae-5903-4738-b4df-22bbe8ff4712",
+    "name": "World University Rankings Complete University",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7b4c5766-695a-4a4d-850a-c165c3637d23",
+    "name": "Discover AECC Partner Institut",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "38fc64b6-3520-4bd0-9668-4067be6b4816",
+    "name": "Find out where you can study in Australia Click Here to Explore Universiti",
+    "country_code": "AU",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7acc9f42-63a5-47c3-9b6e-199e6d794dfc",
+    "name": "Green Card Conversion Find out where you can study in Ireland Click Here to Explore Universiti",
+    "country_code": "IE",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "63d48141-2ccc-4a27-a39e-844860f24f2a",
+    "name": "University of Oxford",
+    "country_code": "GB",
+    "domain": "oxford.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "6f21fe8d-0cd2-4c0f-a8a6-8c7d8dfa3e86",
+    "name": "Imperial College London",
+    "country_code": "GB",
+    "domain": "imperial.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "1cd008e6-9595-4334-98f0-6a0f36ae5f14",
+    "name": "Linton University College",
+    "country_code": "MY",
+    "domain": "linton.edu.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b3c63ceb-c0bc-47d8-95c2-20826865448a",
+    "name": "London School of Economics",
+    "country_code": "GB",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "29c42534-7c48-4f0c-868d-dbc8ad939d73",
+    "name": "University of Manchester",
+    "country_code": "GB",
+    "domain": "manchester.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f1400a25-ebd6-4663-9a72-7636f79813bb",
+    "name": "University of Edinburgh",
+    "country_code": "GB",
+    "domain": "ed.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "dd634a97-7e78-49b9-afbc-d81cb924b250",
+    "name": "University of Birmingham",
+    "country_code": "GB",
+    "domain": "bham.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "80c9de56-8269-435d-b7e1-ad9b6cef1e64",
+    "name": "University of Bristol",
+    "country_code": "GB",
+    "domain": "bristol.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "69ac65d4-7ad9-4fbd-a128-1638f256723f",
+    "name": "King's College London",
+    "country_code": "GB",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "66b052e9-3f12-4344-a3e1-a5cc294efe77",
+    "name": "University of Glasgow",
+    "country_code": "GB",
+    "domain": "gla.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "60b3a0e9-398f-45b6-a3f5-64e3d00bbba3",
+    "name": "University of Warwick",
+    "country_code": "GB",
+    "domain": "warwick.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "d6c0c2a2-b03c-4ef5-9a47-c2064c158c87",
+    "name": "University of Southampton",
+    "country_code": "GB",
+    "domain": "soton.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ce09a382-2f2f-481a-b52a-f976416396a0",
+    "name": "University of Leeds",
+    "country_code": "GB",
+    "domain": "leeds.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "bcef7279-1992-4893-86d1-535f8f02f8b8",
+    "name": "The University of Sheffield",
+    "country_code": "GB",
+    "domain": "shef.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "cceabffc-6ccf-4d81-8302-0ec90dfbf5ef",
+    "name": "University of Nottingham",
+    "country_code": "GB",
+    "domain": "nottingham.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "41044a08-ffa5-4d81-8645-32da41337c71",
+    "name": "University of Liverpool",
+    "country_code": "GB",
+    "domain": "liv.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0950499c-c5aa-4844-b24b-68ad441fade5",
+    "name": "University of Leicester",
+    "country_code": "GB",
+    "domain": "le.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "aba07498-9538-422d-9b43-9865c6f35f17",
+    "name": "Coventry University",
+    "country_code": "GB",
+    "domain": "coventry.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c3f80cbc-f2cc-4b5b-b4ca-95209585decd",
+    "name": "De Montfort University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7f2d1f21-6368-46fb-b9d9-f6aef741481a",
+    "name": "University of Hertfordshire",
+    "country_code": "GB",
+    "domain": "herts.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "edab7056-c4a2-4163-acc8-9bc7adfea922",
+    "name": "Middlesex University - London",
+    "country_code": "GB",
+    "domain": "mdx.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7a464474-aa41-4044-8680-59e3285bd42f",
+    "name": "London Metropolitan University",
+    "country_code": "GB",
+    "domain": "londonmet.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "d8c07207-b1ad-4bfe-b227-0ddf62297e38",
+    "name": "University of East London",
+    "country_code": "GB",
+    "domain": "uel.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "2c0342a8-6008-47cd-9443-36f32271b34f",
+    "name": "University of Bolton",
+    "country_code": "GB",
+    "domain": "bolton.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "792f1a13-41fd-4274-b622-2e3ed73822c8",
+    "name": "University of Huddersfield",
+    "country_code": "GB",
+    "domain": "hud.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ef81c643-aa0c-4c13-8b63-69b452d23b58",
+    "name": "University of Salford",
+    "country_code": "GB",
+    "domain": "salford.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "58eb8fc5-0d0a-439b-a282-0073e05fd321",
+    "name": "University of London",
+    "country_code": "GB",
+    "domain": "london.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "00a7f801-942e-400c-a876-310efaa7e525",
+    "name": "Anglia Ruskin University",
+    "country_code": "GB",
+    "domain": "anglia.ac.uk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "cf96f5e2-b192-4378-91a0-d4887fbde831",
+    "name": "University of Toronto",
+    "country_code": "CA",
+    "domain": "utoronto.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4fed5b97-a936-4dfe-873b-6123440ba54e",
+    "name": "University of British Columbia",
+    "country_code": "CA",
+    "domain": "ubc.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c1cb12e0-3e63-4bd3-919c-2163faadbca2",
+    "name": "McGill University",
+    "country_code": "CA",
+    "domain": "mcgill.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8ba992a2-66b2-4653-bf5a-f46b31c35820",
+    "name": "University of Alberta",
+    "country_code": "CA",
+    "domain": "ualberta.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "432943a7-a16c-47d3-9802-1ddb2b7fe2c9",
+    "name": "University of Waterloo",
+    "country_code": "CA",
+    "domain": "uwaterloo.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f27f2a26-c202-445b-94fb-5463a6a66022",
+    "name": "McMaster University",
+    "country_code": "CA",
+    "domain": "mcmaster.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "23e8371d-c242-47da-9c4e-c41b521f0759",
+    "name": "University of Ottawa",
+    "country_code": "CA",
+    "domain": "uottawa.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0ffec272-841d-491e-9f92-72aec335525c",
+    "name": "University of Calgary",
+    "country_code": "CA",
+    "domain": "ucalgary.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ff4745a4-89cd-4093-93b7-ea8ba05f4a1f",
+    "name": "York University",
+    "country_code": "CA",
+    "domain": "yorku.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "696cc00f-e5f0-407c-8eaf-52ddb03f07a9",
+    "name": "Simon Fraser University",
+    "country_code": "CA",
+    "domain": "sfu.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b799aa52-71b2-4c23-98fd-bc632dcb2e92",
+    "name": "Dalhousie University",
+    "country_code": "CA",
+    "domain": "dal.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e22b9a9a-2dab-417d-a37d-372f250dd4ac",
+    "name": "University of Manitoba",
+    "country_code": "CA",
+    "domain": "umanitoba.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0a3c1772-cf84-4f39-835d-c4ce811f1338",
+    "name": "Carleton University",
+    "country_code": "CA",
+    "domain": "carleton.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "802e384d-2cd6-4ecc-8635-2f269ee56004",
+    "name": "Anderson University",
+    "country_code": "US",
+    "domain": "andersonuniversity.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "19f370ce-7517-4523-8c0b-b10b8f28a9da",
+    "name": "Concordia University",
+    "country_code": "CA",
+    "domain": "concordia.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4ad2101b-7f04-4619-a24e-3f21e6da4a6f",
+    "name": "University of Regina",
+    "country_code": "CA",
+    "domain": "uregina.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "514aa9f3-9587-4fd7-8f48-3312955afba1",
+    "name": "University of Windsor",
+    "country_code": "CA",
+    "domain": "uwindsor.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "49b178e4-8c1e-4486-8174-160bb53b99cc",
+    "name": "Brock University",
+    "country_code": "CA",
+    "domain": "brocku.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a93b43c2-3c23-455c-85a5-f48fe3c7b5e2",
+    "name": "Lakehead University",
+    "country_code": "CA",
+    "domain": "lakeheadu.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c798e00b-6e57-4175-84e7-85f308700cdb",
+    "name": "Nipissing University",
+    "country_code": "CA",
+    "domain": "nipissingu.ca",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "95293870-6cef-40e1-a0e9-5c9e253a4f22",
+    "name": "University of Melbourne",
+    "country_code": "AU",
+    "domain": "unimelb.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8f36de24-a08f-4732-b36b-5d8e9fc1d717",
+    "name": "University of Sydney",
+    "country_code": "AU",
+    "domain": "sydney.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "de8f05eb-b1a0-4066-860e-e7ea7ffc7e91",
+    "name": "Australian National University",
+    "country_code": "AU",
+    "domain": "anu.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e1fc32fe-98f3-425f-a379-2cf115aa380a",
+    "name": "University of Queensland",
+    "country_code": "AU",
+    "domain": "uq.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c3dcfbf9-0bee-4a8d-8dd1-afa0c3ffbe7b",
+    "name": "Monash University",
+    "country_code": "AU",
+    "domain": "monash.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f2e1f53e-e51f-42e2-b78b-d1e81a61eed6",
+    "name": "University of New South Wales",
+    "country_code": "AU",
+    "domain": "unsw.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f5bd516c-aa0a-4de6-ada4-405709256411",
+    "name": "University of Adelaide",
+    "country_code": "AU",
+    "domain": "adelaide.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4e2a5212-76eb-482d-bc4c-f9964c46fe4b",
+    "name": "University of Western Australia",
+    "country_code": "AU",
+    "domain": "uwa.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a826f567-94ae-4457-8a3c-0975d7f3934a",
+    "name": "University of Technology Sydney",
+    "country_code": "AU",
+    "domain": "uts.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "12a480ee-b975-4117-8255-57b13ac03995",
+    "name": "Amity University",
+    "country_code": "IN",
+    "domain": "amity.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "552ae285-4e3d-41da-8d4f-129924ded5ce",
+    "name": "Deakin University",
+    "country_code": "AU",
+    "domain": "deakin.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5b72622b-65dc-421e-9833-89cfe031f5a0",
+    "name": "La Trobe University",
+    "country_code": "AU",
+    "domain": "latrobe.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "18687e33-697c-408a-aadd-f6443220298e",
+    "name": "Griffith University",
+    "country_code": "AU",
+    "domain": "griffith.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "62e1fcee-fb47-440e-8fa2-23b308c420ba",
+    "name": "James Cook University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f308d3d8-f49b-499e-aa95-de71033ee20e",
+    "name": "Macquarie University",
+    "country_code": "AU",
+    "domain": "mq.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "fdad1dfa-6644-4eff-9012-4e01274bf61f",
+    "name": "Curtin University",
+    "country_code": "AU",
+    "domain": "curtin.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9b7accd8-9bb3-4fd0-bc42-c1e44c096231",
+    "name": "Lander University",
+    "country_code": "US",
+    "domain": "lander.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "56471076-512a-4d3c-9eb9-610cb44ac2db",
+    "name": "Western Sydney University",
+    "country_code": "AU",
+    "domain": "westernsydney.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ed392fba-74fe-44aa-a1e8-9a32023728f1",
+    "name": "Charles Darwin University",
+    "country_code": "AU",
+    "domain": "cdu.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "6c5a852e-ee4e-4357-a562-e618c29296f2",
+    "name": "University of Tasmania",
+    "country_code": "AU",
+    "domain": "utas.edu.au",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "dbe7c05c-3ccb-46ce-bed6-3863c0424eae",
+    "name": "Massachusetts Institute of Technology",
+    "country_code": "US",
+    "domain": "mit.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "07500059-bb49-4db0-a2e8-0160c4bf9a25",
+    "name": "Stanford University",
+    "country_code": "US",
+    "domain": "stanford.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4643699b-4376-42fb-ada6-c5db6a802507",
+    "name": "Harvard University",
+    "country_code": "US",
+    "domain": "harvard.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0fd10ba9-6634-4314-a169-9ecc671b2513",
+    "name": "California Institute of Technology",
+    "country_code": "US",
+    "domain": "caltech.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0de34d94-305f-4537-8b95-5f7c4d583789",
+    "name": "University of Chicago",
+    "country_code": "US",
+    "domain": "uchicago.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "2535140b-b7b0-4bdc-81d9-ede9ce153b35",
+    "name": "Columbia University",
+    "country_code": "US",
+    "domain": "columbia.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b26cf6c2-bbc6-48f1-b18b-9651e8562c83",
+    "name": "Yale University",
+    "country_code": "US",
+    "domain": "yale.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7abcf507-a752-4a56-b89a-716716be4d18",
+    "name": "Princeton University",
+    "country_code": "US",
+    "domain": "princeton.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "076426eb-e00b-423b-aacd-078aebe442d1",
+    "name": "Cornell University",
+    "country_code": "US",
+    "domain": "cornell.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "17987cb4-0857-4ed7-8e85-3bccf6e461d6",
+    "name": "University of Michigan-Flint",
+    "country_code": "US",
+    "domain": "umflint.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "fde1f6bd-4f5c-4f29-affe-244eea64600a",
+    "name": "New York University",
+    "country_code": "US",
+    "domain": "nyu.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a8823d38-f427-4e32-a5ce-f4363040a7ce",
+    "name": "University of California, Los Angeles",
+    "country_code": "US",
+    "domain": "ucla.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3834dcbf-f16f-4cdf-a0b4-2fc26c626298",
+    "name": "University of California, Berkeley",
+    "country_code": "US",
+    "domain": "berkeley.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "2c9f5656-0b45-4f2f-9251-c5ab4786fc9a",
+    "name": "Georgia Institute of Technology",
+    "country_code": "US",
+    "domain": "gatech.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "72edb7d4-77a0-4719-97e5-7f16957bd3bd",
+    "name": "The University of Texas at Austin",
+    "country_code": "US",
+    "domain": "utexas.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "aa32d217-7131-4894-bd16-9556dce46469",
+    "name": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "domain": "uiuc.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5a2d02fb-53b6-4a75-9a46-cb5884e3cbac",
+    "name": "Purdue University",
+    "country_code": "US",
+    "domain": "purdue.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "63fe4e4b-e576-4055-81eb-3f8a38729230",
+    "name": "Pennsylvania State University",
+    "country_code": "US",
+    "domain": "psu.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9b617a06-039c-4f76-9994-bb8d2a326b32",
+    "name": "Imo State University",
+    "country_code": "XX",
+    "domain": "imsu.edu.ng",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "04523099-4d45-4142-a620-409087a885ba",
+    "name": "University of Washington",
+    "country_code": "US",
+    "domain": "uw.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8bb72c50-259b-4a0e-a7bc-3376a99e3e98",
+    "name": "Ho Technical University",
+    "country_code": "XX",
+    "domain": "htu.edu.gh",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5f1df40f-813b-47eb-9ab9-e29c9d63b8c0",
+    "name": "Ludwig-Maximilians-Universität München",
+    "country_code": "DE",
+    "domain": "lmu.de",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ad8e8f4e-af77-4011-b0d3-37fd8cfaaa39",
+    "name": "Heidelberg University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "800b10f5-1ea2-4706-8e3a-86ae5d280191",
+    "name": "Humboldt Universität Berlin",
+    "country_code": "DE",
+    "domain": "hu-berlin.de",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4dd58e58-de5f-49a0-bb50-7fcc4224760f",
+    "name": "Free University of Bozen",
+    "country_code": "IT",
+    "domain": "unibz.it",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4349f411-4b3c-47cb-b9aa-fa60cef4f5c4",
+    "name": "RWTH Aachen University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9434b99d-5890-4c28-a5f9-4541b70b5ebd",
+    "name": "University of Luxemburg",
+    "country_code": "XX",
+    "domain": "uni.lu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "aebb2d43-deed-4607-a78c-1520cc04c9ee",
+    "name": "University of Frankfurt",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "113ec979-dad4-4457-b8cc-bfde8f0c782d",
+    "name": "University of Bologna",
+    "country_code": "IT",
+    "domain": "unibo.it",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5fe1b804-0f51-4211-be2e-c649c68f75d6",
+    "name": "Universität Stuttgart",
+    "country_code": "DE",
+    "domain": "uni-stuttgart.de",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c7683023-93b4-4587-9fba-3ebd82e32b04",
+    "name": "Kurume Institute of Technology",
+    "country_code": "JP",
+    "domain": "kurume-it.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0438f5d6-75da-4da5-b7bc-82958727127c",
+    "name": "Technical University of Lublin",
+    "country_code": "XX",
+    "domain": "pol.lublin.pl",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9280f850-55b1-491a-8b19-c7308e2515c3",
+    "name": "University of Malta",
+    "country_code": "XX",
+    "domain": "um.edu.mt",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "80236e46-035c-4f72-bdd2-93ccfbe3dc11",
+    "name": "Universiti Putra Malaysia",
+    "country_code": "MY",
+    "domain": "upm.edu.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ac06aee8-a447-4dc9-b6df-66c649cdb427",
+    "name": "Universiti Kebangsaan Malaysia",
+    "country_code": "MY",
+    "domain": "ukm.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8e54630a-df0e-4a84-bddc-68239ab70970",
+    "name": "Universiti Teknologi Malaysia",
+    "country_code": "MY",
+    "domain": "utm.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "1a450af0-b519-462b-99f8-47e133ce80c3",
+    "name": "Universiti Sains Malaysia",
+    "country_code": "MY",
+    "domain": "usm.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3e8738f3-b439-492b-8275-e7db2c8078c7",
+    "name": "Taylor University",
+    "country_code": "US",
+    "domain": "tayloru.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "6037b5ed-f59b-48ec-9f36-e5de5328db4d",
+    "name": "Multimedia University",
+    "country_code": "MY",
+    "domain": "mmu.edu.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "d67a61fd-d192-43c8-a564-af36f72ceb8f",
+    "name": "INTI International University",
+    "country_code": "MY",
+    "domain": "newinti.edu.my",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e462068c-e039-4bf5-80d2-ad50dc225b27",
+    "name": "Azusa Pacific University",
+    "country_code": "US",
+    "domain": "apu.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "653d94cd-2895-4293-93bc-4ce6f7b075c6",
+    "name": "Sunway University",
+    "country_code": "XX",
+    "domain": null,
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3e3656cb-cc33-4808-9ade-7ae661552c67",
+    "name": "Seoul National University",
+    "country_code": "XX",
+    "domain": "snu.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "1c1cbf16-4cdf-4c31-a112-dbd67807244a",
+    "name": "Korea Advanced Institute of Science & Technology",
+    "country_code": "XX",
+    "domain": "kaist.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a7589f5c-8b9e-417b-acd2-794916a02338",
+    "name": "Yonsei University",
+    "country_code": "XX",
+    "domain": "yonsei.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "1e93c1e1-dec0-4a13-a4f3-6b611bf504b1",
+    "name": "Korea University",
+    "country_code": "XX",
+    "domain": "korea.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c6bb7cf9-8b4c-44d2-bed4-7d2dcc6725c6",
+    "name": "Sungkyunkwan University",
+    "country_code": "XX",
+    "domain": "skku.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "0b8b2c81-1531-4de5-9c21-30724338e5a5",
+    "name": "Hanyang University",
+    "country_code": "XX",
+    "domain": "hanyang.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e34cc6f0-14f6-4237-9b13-558ceb30e300",
+    "name": "Ewha Womans University",
+    "country_code": "XX",
+    "domain": "ewha.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ce57805f-4657-4781-91aa-8d5411aa6958",
+    "name": "Sogang University",
+    "country_code": "XX",
+    "domain": "sogang.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f7b14fa6-ccee-43c8-aeee-f851e497811d",
+    "name": "Inha University",
+    "country_code": "XX",
+    "domain": "inha.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e1c20b35-69f4-4951-a336-8cb5f938f12b",
+    "name": "Kyung Hee University",
+    "country_code": "XX",
+    "domain": "khu.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f9ae7c12-43bc-4a73-abe2-f32c951b9de3",
+    "name": "Ajou University",
+    "country_code": "XX",
+    "domain": "ajou.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "37825a96-cb1d-4252-9766-17189810ae10",
+    "name": "Konkuk University",
+    "country_code": "XX",
+    "domain": "konkuk.ac.kr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8ccd8f40-6f90-4624-b39a-9d84180effb4",
+    "name": "University of Tokyo",
+    "country_code": "JP",
+    "domain": "u-tokyo.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "2c82d3dd-567d-46af-98a9-ef80b2563607",
+    "name": "Kyoto University",
+    "country_code": "JP",
+    "domain": "kyoto-u.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9f4c997e-543b-4a16-80ce-98ee25a1a6f6",
+    "name": "Osaka University",
+    "country_code": "JP",
+    "domain": "osaka-u.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "921e07c8-a455-43c6-981e-7f802a5f5a92",
+    "name": "Tohoku University",
+    "country_code": "JP",
+    "domain": "tohoku.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b6f1753c-e9a3-41bd-9e3a-f6effde58fbe",
+    "name": "Tokyo Institute of Technology",
+    "country_code": "JP",
+    "domain": "titech.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b08f7756-2916-476c-91b4-df67076cfd05",
+    "name": "Nagoya University",
+    "country_code": "JP",
+    "domain": "nagoya-u.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "bf56c03c-b568-4cf0-9a77-998bd2446c01",
+    "name": "Kyushu University",
+    "country_code": "JP",
+    "domain": "kyushu-u.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "95078be9-3321-42ce-9f78-dcfef16d4292",
+    "name": "Waseda University",
+    "country_code": "JP",
+    "domain": "waseda.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a92081a2-f507-4db4-bc63-ac9a14e5ae0a",
+    "name": "Keio University",
+    "country_code": "JP",
+    "domain": "a2.keio.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "f5d40354-af86-4295-b757-99843f54f27f",
+    "name": "Ritsumeikan University",
+    "country_code": "JP",
+    "domain": "ritsumei.ac.jp",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c022940e-cfee-4fea-8162-e76359311d32",
+    "name": "Middle East Technical University",
+    "country_code": "XX",
+    "domain": "metu.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "c4a34a66-7490-4d9e-97d9-4bc05c13daca",
+    "name": "Bilkent University",
+    "country_code": "XX",
+    "domain": "bilkent.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e9405f72-d035-4af5-bd65-c7e09f4f3135",
+    "name": "Boğaziçi University",
+    "country_code": "XX",
+    "domain": "bogazici.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ca409db0-554c-4745-958b-74420349925b",
+    "name": "Istanbul Technical University",
+    "country_code": "XX",
+    "domain": "itu.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ee8199d7-f950-4c03-81ee-5d0d2a36c10f",
+    "name": "Hacettepe University",
+    "country_code": "XX",
+    "domain": "hun.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "950c510d-c6b5-46a4-b344-765de449ab31",
+    "name": "Istanbul University",
+    "country_code": "XX",
+    "domain": "istanbul.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "9b5611be-b60d-4ded-883d-4bebb4f9d1dc",
+    "name": "Ankara University",
+    "country_code": "XX",
+    "domain": "ankara.edu.tr",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "30e90eb4-89d5-4b84-a384-6d9e2daa2d56",
+    "name": "University of Auckland",
+    "country_code": "NZ",
+    "domain": "auckland.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "973c988a-fe3f-4574-8ef7-c800748f753e",
+    "name": "Victoria University of Wellington",
+    "country_code": "NZ",
+    "domain": "vuw.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5f1a177b-bfa0-47a2-a1b2-f6f0ecea08e6",
+    "name": "University of Canterbury",
+    "country_code": "NZ",
+    "domain": "canterbury.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b9295914-06f7-441e-bcc8-7fffd4ffedbc",
+    "name": "University of Otago",
+    "country_code": "NZ",
+    "domain": "otago.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "03581976-6b48-4a86-869a-256a3a9ad96c",
+    "name": "Massey University",
+    "country_code": "NZ",
+    "domain": "massey.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "905e910e-5a17-4451-aa22-62ec95e2f6f7",
+    "name": "Auckland University of Technology",
+    "country_code": "NZ",
+    "domain": "aut.ac.nz",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b1716e41-c12c-4ed5-a546-6913e74d10c6",
+    "name": "Peking University",
+    "country_code": "CN",
+    "domain": "pku.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "8300db18-dfc7-4ad3-86d9-c8d3d42d3978",
+    "name": "Tsinghua University",
+    "country_code": "CN",
+    "domain": "tsinghua.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a94e8f46-0ea8-4773-9815-21a3c9c06e79",
+    "name": "Fudan University",
+    "country_code": "CN",
+    "domain": "fudan.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "5b6653a2-66d6-4c5f-961d-4408b1466339",
+    "name": "Zhejiang University",
+    "country_code": "CN",
+    "domain": "zju.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "795e9b38-58e6-43fb-b4be-03d92a6e25f7",
+    "name": "Shanghai Jiao Tong University",
+    "country_code": "CN",
+    "domain": "en.sjtu.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3bed2cfe-9c74-4d22-b78f-47b2fedccda6",
+    "name": "Nanjing University",
+    "country_code": "CN",
+    "domain": "nju.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a10f7a36-dab8-452c-9425-158aa6929931",
+    "name": "Tongji University",
+    "country_code": "CN",
+    "domain": "tongji.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "7b327051-0801-4eaa-bf8f-4f8fd73c2d94",
+    "name": "Wuhan University",
+    "country_code": "CN",
+    "domain": "whu.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "cc4b2233-cf99-4259-99a1-4820e353a420",
+    "name": "Harbin Institute of Technology",
+    "country_code": "CN",
+    "domain": "hit.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e3eb2396-2487-4a0e-87d9-1cafba826347",
+    "name": "Xi'an Jiaotong University",
+    "country_code": "CN",
+    "domain": "xjtu.edu.cn",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a3bec45e-4efa-494e-9184-504d10077879",
+    "name": "Trinity College (DC)",
+    "country_code": "US",
+    "domain": "trinitydc.edu",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "4994fac4-b2db-493d-8245-e26afafcde92",
+    "name": "University College Dublin",
+    "country_code": "IE",
+    "domain": "ucd.ie",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "6ec0758d-2f83-4301-b0ee-60c676510531",
+    "name": "University College Cork",
+    "country_code": "IE",
+    "domain": "ucc.ie",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "a771d7dd-461d-4de5-86dc-583349568b49",
+    "name": "National University of Ireland",
+    "country_code": "IE",
+    "domain": "nui.ie",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "2c000863-dea5-4fd6-9cfc-08e3fa2c537d",
+    "name": "Dublin City University",
+    "country_code": "IE",
+    "domain": "dcu.ie",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "e458345d-0716-410d-aacc-a929f4265b8f",
+    "name": "Stockholm University",
+    "country_code": "SE",
+    "domain": "su.se",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "1bd59cf3-b569-46aa-b555-518f2cd9e04d",
+    "name": "Uppsala University",
+    "country_code": "SE",
+    "domain": "uu.se",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "06d4c23b-33d5-4608-9b35-d10c8eccc9ea",
+    "name": "Lund University",
+    "country_code": "SE",
+    "domain": "lu.se",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "16619557-b78f-4354-876c-f3cf65eb3ec1",
+    "name": "Chalmers University of Technology",
+    "country_code": "SE",
+    "domain": "chalmers.se",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "ce081a94-fefe-492f-9bc8-2749bbe486ec",
+    "name": "KTH Royal Institute of Technology",
+    "country_code": "SE",
+    "domain": "kth.se",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "d9b67b7a-ef66-4ef5-88b0-0b1371b0f315",
+    "name": "University of Oslo",
+    "country_code": "NO",
+    "domain": "uio.no",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "74f9e86f-180a-4187-91cd-5e9aeb325084",
+    "name": "University of Bergen",
+    "country_code": "NO",
+    "domain": "uib.no",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "b435ce66-f502-4f84-987d-f28c2d62b9a7",
+    "name": "University of Helsinki",
+    "country_code": "FI",
+    "domain": "helsinki.fi",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "de7a059a-10f4-4dbf-99dc-13ad99a796f4",
+    "name": "Aalto University",
+    "country_code": "FI",
+    "domain": "aalto.fi",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  },
+  {
+    "id": "3660243d-dae3-4278-a88e-28f65b10b993",
+    "name": "Technical University of Denmark",
+    "country_code": "DK",
+    "domain": "dtu.dk",
+    "source": "osint_scrape",
+    "created_at": "2026-06-09T10:32:14.079034+00:00"
+  }
+]

@@ -1,0 +1,1918 @@
+[
+  {
+    "agency_id": "maple-leaf-educational-services",
+    "name": "Maple Leaf Educational Services",
+    "website": "https://mapleleafedu.com",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Canada",
+      "UK",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609320+00:00"
+  },
+  {
+    "agency_id": "future-education-bangladesh",
+    "name": "Future Education Bangladesh",
+    "website": "https://futureeducation.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia",
+      "Japan"
+    ],
+    "partner_universities_mentioned": [
+      "University",
+      "Future Education Skip to content Future Education Home About Japan Student Visa Japanese Language School University",
+      "Services Japan Tourist Visa Japan Business Visa Our Story Contact University",
+      "Why Study at a Japanese University",
+      "How to Apply Choose a University"
+    ],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609398+00:00"
+  },
+  {
+    "agency_id": "achieve-more-international",
+    "name": "Achieve More International",
+    "website": "https://achievemore.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609406+00:00"
+  },
+  {
+    "agency_id": "global-education-center-bangladesh",
+    "name": "Global Education Center Bangladesh",
+    "website": "https://gec.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada",
+      "USA",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609412+00:00"
+  },
+  {
+    "agency_id": "dream-zone-education-consultancy",
+    "name": "Dream Zone Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "South Korea",
+      "Japan"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609417+00:00"
+  },
+  {
+    "agency_id": "bright-future-education",
+    "name": "Bright Future Education",
+    "website": "https://brightfuture.edu.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Chittagong, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609422+00:00"
+  },
+  {
+    "agency_id": "pioneer-education-consultancy",
+    "name": "Pioneer Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609426+00:00"
+  },
+  {
+    "agency_id": "star-education-migration",
+    "name": "Star Education & Migration",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Sylhet, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609438+00:00"
+  },
+  {
+    "agency_id": "overseas-career-center",
+    "name": "Overseas Career Center",
+    "website": "https://overseascareer.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "France",
+      "Sweden",
+      "Norway"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609445+00:00"
+  },
+  {
+    "agency_id": "study-abroad-bangladesh",
+    "name": "Study Abroad Bangladesh",
+    "website": "https://studyabroadbd.com",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609450+00:00"
+  },
+  {
+    "agency_id": "idp-education-bangladesh",
+    "name": "IDP Education Bangladesh",
+    "website": "https://idp.com/bangladesh",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "USA",
+      "Canada",
+      "New Zealand",
+      "Ireland",
+      "United States",
+      "United Kingdom",
+      "Malaysia",
+      "China",
+      "Korea",
+      "Turkey",
+      "Singapore",
+      "Thailand",
+      "India",
+      "Pakistan",
+      "UAE"
+    ],
+    "partner_universities_mentioned": [
+      "University",
+      "Popularity Popularity THE World University Rankings University",
+      "Cambridge University",
+      "Universiti",
+      "View details California State University",
+      "English Courses available View details James Madison University",
+      "English Courses available View details Bentley University",
+      "English Courses available View details Vanderbilt University",
+      "English Courses available View details University of Essex International College",
+      "English Courses available View details Rhode Island School of"
+    ],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609454+00:00"
+  },
+  {
+    "agency_id": "british-council-bangladesh",
+    "name": "British Council Bangladesh",
+    "website": "https://www.britishcouncil.org.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609457+00:00"
+  },
+  {
+    "agency_id": "edwise-international-bangladesh",
+    "name": "Edwise International Bangladesh",
+    "website": "https://edwise.com",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia",
+      "New Zealand"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609462+00:00"
+  },
+  {
+    "agency_id": "aecc-global-bangladesh",
+    "name": "AECC Global Bangladesh",
+    "website": "https://aeccglobal.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada",
+      "USA",
+      "Ireland",
+      "United Kingdom",
+      "Malaysia",
+      "New Zealand",
+      "Singapore",
+      "Thailand",
+      "India"
+    ],
+    "partner_universities_mentioned": [
+      "Discover AECC Partner Institut",
+      "Universiti",
+      "Find out where you can study in Australia Click Here to Explore Universiti",
+      "Green Card Conversion Find out where you can study in Ireland Click Here to Explore Universiti"
+    ],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609465+00:00"
+  },
+  {
+    "agency_id": "yes-germany-education-consultancy",
+    "name": "Yes! Germany Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Austria"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609470+00:00"
+  },
+  {
+    "agency_id": "korea-education-center-bangladesh",
+    "name": "Korea Education Center Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "South Korea"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609474+00:00"
+  },
+  {
+    "agency_id": "japan-education-bangladesh",
+    "name": "Japan Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Japan"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609478+00:00"
+  },
+  {
+    "agency_id": "myconsult",
+    "name": "MYConsult",
+    "website": "https://myconsult.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "Australia",
+      "UK"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609482+00:00"
+  },
+  {
+    "agency_id": "unisearch-bangladesh",
+    "name": "UniSearch Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609489+00:00"
+  },
+  {
+    "agency_id": "westward-education-consultancy",
+    "name": "Westward Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "Ireland"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609494+00:00"
+  },
+  {
+    "agency_id": "meem-education-consultancy",
+    "name": "Meem Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Turkey",
+      "Malaysia",
+      "China"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609498+00:00"
+  },
+  {
+    "agency_id": "future-study-abroad",
+    "name": "Future Study Abroad",
+    "website": "https://futurestudy.com.bd",
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "USA",
+      "Australia",
+      "New Zealand"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609502+00:00"
+  },
+  {
+    "agency_id": "educare-international",
+    "name": "EduCare International",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Rajshahi, Bangladesh",
+    "destination_countries": [
+      "China",
+      "Malaysia",
+      "Turkey"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609506+00:00"
+  },
+  {
+    "agency_id": "scholars-education-consultancy",
+    "name": "Scholars Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Sylhet, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609511+00:00"
+  },
+  {
+    "agency_id": "wings-education-consultancy",
+    "name": "Wings Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "Canada",
+      "UK"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609515+00:00"
+  },
+  {
+    "agency_id": "greenland-education-consultancy",
+    "name": "Greenland Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Chittagong, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Malaysia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609520+00:00"
+  },
+  {
+    "agency_id": "euro-education-consultancy",
+    "name": "Euro Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "France",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609523+00:00"
+  },
+  {
+    "agency_id": "sky-education-consultancy-bangladesh",
+    "name": "Sky Education Consultancy Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609528+00:00"
+  },
+  {
+    "agency_id": "summit-education-consultants",
+    "name": "Summit Education Consultants",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609531+00:00"
+  },
+  {
+    "agency_id": "global-visa-education-center",
+    "name": "Global Visa & Education Center",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Canada",
+      "UK",
+      "Australia",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609535+00:00"
+  },
+  {
+    "agency_id": "cosmo-education-center",
+    "name": "Cosmo Education Center",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China",
+      "South Korea"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609539+00:00"
+  },
+  {
+    "agency_id": "bridge-education-consultancy",
+    "name": "Bridge Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609543+00:00"
+  },
+  {
+    "agency_id": "aspire-education-consultancy",
+    "name": "Aspire Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609546+00:00"
+  },
+  {
+    "agency_id": "ace-education-consultancy",
+    "name": "Ace Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609550+00:00"
+  },
+  {
+    "agency_id": "destination-education-bangladesh",
+    "name": "Destination Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "New Zealand",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609554+00:00"
+  },
+  {
+    "agency_id": "top-education-consultancy",
+    "name": "Top Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Khulna, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609557+00:00"
+  },
+  {
+    "agency_id": "go-abroad-bangladesh",
+    "name": "Go Abroad Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609560+00:00"
+  },
+  {
+    "agency_id": "edulink-bangladesh",
+    "name": "EduLink Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Gazipur, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609568+00:00"
+  },
+  {
+    "agency_id": "excel-education-consultancy",
+    "name": "Excel Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609576+00:00"
+  },
+  {
+    "agency_id": "smart-education-consultancy-bd",
+    "name": "Smart Education Consultancy BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "South Korea",
+      "Japan",
+      "China"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609581+00:00"
+  },
+  {
+    "agency_id": "akash-overseas-education",
+    "name": "Akash Overseas Education",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609584+00:00"
+  },
+  {
+    "agency_id": "overseas-study-center",
+    "name": "Overseas Study Center",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "Canada",
+      "UK",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609589+00:00"
+  },
+  {
+    "agency_id": "prodigy-education-consultants",
+    "name": "Prodigy Education Consultants",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609594+00:00"
+  },
+  {
+    "agency_id": "teched-abroad-bangladesh",
+    "name": "TechEd Abroad Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Sweden",
+      "Netherlands"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609598+00:00"
+  },
+  {
+    "agency_id": "nordic-education-bangladesh",
+    "name": "Nordic Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609601+00:00"
+  },
+  {
+    "agency_id": "east-asia-education-center",
+    "name": "East Asia Education Center",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Japan",
+      "South Korea",
+      "China"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609605+00:00"
+  },
+  {
+    "agency_id": "new-horizon-education-consultancy",
+    "name": "New Horizon Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609609+00:00"
+  },
+  {
+    "agency_id": "atlas-education-bangladesh",
+    "name": "Atlas Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609612+00:00"
+  },
+  {
+    "agency_id": "rise-education-consultancy",
+    "name": "Rise Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Chittagong, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609616+00:00"
+  },
+  {
+    "agency_id": "dream-canada-immigration-education",
+    "name": "Dream Canada Immigration & Education",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609620+00:00"
+  },
+  {
+    "agency_id": "uk-study-center-bangladesh",
+    "name": "UK Study Center Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609624+00:00"
+  },
+  {
+    "agency_id": "aus-education-services",
+    "name": "Aus Education Services",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609628+00:00"
+  },
+  {
+    "agency_id": "go-germany-bangladesh",
+    "name": "Go Germany Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Austria",
+      "Switzerland"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609631+00:00"
+  },
+  {
+    "agency_id": "vision-education-consultancy",
+    "name": "Vision Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Sylhet, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609637+00:00"
+  },
+  {
+    "agency_id": "horizon-education-dhaka",
+    "name": "Horizon Education Dhaka",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609640+00:00"
+  },
+  {
+    "agency_id": "premier-education-consultancy",
+    "name": "Premier Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609646+00:00"
+  },
+  {
+    "agency_id": "infinity-education-consultants",
+    "name": "Infinity Education Consultants",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609650+00:00"
+  },
+  {
+    "agency_id": "first-step-education-consultancy",
+    "name": "First Step Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "South Korea",
+      "Turkey"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609655+00:00"
+  },
+  {
+    "agency_id": "bright-minds-education-bangladesh",
+    "name": "Bright Minds Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Rajshahi, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609659+00:00"
+  },
+  {
+    "agency_id": "globe-education-services",
+    "name": "Globe Education Services",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609662+00:00"
+  },
+  {
+    "agency_id": "education-square-bd",
+    "name": "Education Square BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Malaysia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609666+00:00"
+  },
+  {
+    "agency_id": "pathfinder-education-bangladesh",
+    "name": "Pathfinder Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609670+00:00"
+  },
+  {
+    "agency_id": "mentor-education-consultancy",
+    "name": "Mentor Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609674+00:00"
+  },
+  {
+    "agency_id": "landmark-education-services",
+    "name": "Landmark Education Services",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609677+00:00"
+  },
+  {
+    "agency_id": "trusted-education-consultancy-bd",
+    "name": "Trusted Education Consultancy BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609681+00:00"
+  },
+  {
+    "agency_id": "world-education-center-bangladesh",
+    "name": "World Education Center Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia",
+      "Germany",
+      "Malaysia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609685+00:00"
+  },
+  {
+    "agency_id": "focus-education-consultancy",
+    "name": "Focus Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609689+00:00"
+  },
+  {
+    "agency_id": "pearl-education-consultants",
+    "name": "Pearl Education Consultants",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609692+00:00"
+  },
+  {
+    "agency_id": "crown-education-consultancy",
+    "name": "Crown Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609696+00:00"
+  },
+  {
+    "agency_id": "zenith-education-consultancy",
+    "name": "Zenith Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Netherlands",
+      "Sweden",
+      "Norway"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609699+00:00"
+  },
+  {
+    "agency_id": "blue-sky-education-bangladesh",
+    "name": "Blue Sky Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "New Zealand",
+      "UK"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609702+00:00"
+  },
+  {
+    "agency_id": "anchor-education-consultancy",
+    "name": "Anchor Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609706+00:00"
+  },
+  {
+    "agency_id": "nova-education-consultancy",
+    "name": "Nova Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China",
+      "South Korea"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609711+00:00"
+  },
+  {
+    "agency_id": "capital-education-bangladesh",
+    "name": "Capital Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609714+00:00"
+  },
+  {
+    "agency_id": "arrow-education-consultants",
+    "name": "Arrow Education Consultants",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609718+00:00"
+  },
+  {
+    "agency_id": "milestone-education-consultancy",
+    "name": "Milestone Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609722+00:00"
+  },
+  {
+    "agency_id": "target-education-consultancy",
+    "name": "Target Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609725+00:00"
+  },
+  {
+    "agency_id": "elite-education-consultancy-bd",
+    "name": "Elite Education Consultancy BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609740+00:00"
+  },
+  {
+    "agency_id": "avenue-education-consultancy",
+    "name": "Avenue Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609746+00:00"
+  },
+  {
+    "agency_id": "advantage-education-bangladesh",
+    "name": "Advantage Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Australia",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609749+00:00"
+  },
+  {
+    "agency_id": "prestige-education-consultancy",
+    "name": "Prestige Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609753+00:00"
+  },
+  {
+    "agency_id": "pinnacle-education-services",
+    "name": "Pinnacle Education Services",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Chittagong, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609756+00:00"
+  },
+  {
+    "agency_id": "signature-education-consultancy",
+    "name": "Signature Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609760+00:00"
+  },
+  {
+    "agency_id": "platform-education-bangladesh",
+    "name": "Platform Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Sweden",
+      "UK",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609764+00:00"
+  },
+  {
+    "agency_id": "choice-education-consultancy",
+    "name": "Choice Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China",
+      "South Korea",
+      "Japan"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609767+00:00"
+  },
+  {
+    "agency_id": "sunrise-education-consultancy",
+    "name": "Sunrise Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Sylhet, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "USA",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609771+00:00"
+  },
+  {
+    "agency_id": "quantum-education-services-bd",
+    "name": "Quantum Education Services BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609774+00:00"
+  },
+  {
+    "agency_id": "matrix-education-consultancy",
+    "name": "Matrix Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609778+00:00"
+  },
+  {
+    "agency_id": "crest-education-consultancy",
+    "name": "Crest Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609784+00:00"
+  },
+  {
+    "agency_id": "orbit-education-consultancy",
+    "name": "Orbit Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609789+00:00"
+  },
+  {
+    "agency_id": "triumph-education-bangladesh",
+    "name": "Triumph Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609792+00:00"
+  },
+  {
+    "agency_id": "golden-gate-education-consultancy",
+    "name": "Golden Gate Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609805+00:00"
+  },
+  {
+    "agency_id": "compass-education-consultancy-bd",
+    "name": "Compass Education Consultancy BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Germany",
+      "Sweden",
+      "Norway",
+      "Denmark"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609810+00:00"
+  },
+  {
+    "agency_id": "network-education-consultancy",
+    "name": "Network Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China",
+      "South Korea"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609814+00:00"
+  },
+  {
+    "agency_id": "springboard-education-bangladesh",
+    "name": "Springboard Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "USA"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609818+00:00"
+  },
+  {
+    "agency_id": "prime-education-services-bd",
+    "name": "Prime Education Services BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609822+00:00"
+  },
+  {
+    "agency_id": "dynamic-education-consultancy",
+    "name": "Dynamic Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:03:55.609829+00:00"
+  },
+  {
+    "agency_id": "uniguide-education-consultancy",
+    "name": "UniGuide Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Dhaka, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:06:35.469233+00:00"
+  },
+  {
+    "agency_id": "abroad-education-services-bd",
+    "name": "Abroad Education Services BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Mymensingh, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "South Korea",
+      "China"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:06:35.469233+00:00"
+  },
+  {
+    "agency_id": "green-card-education-consultancy",
+    "name": "Green Card Education Consultancy",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Comilla, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Canada",
+      "Australia"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:06:35.469233+00:00"
+  },
+  {
+    "agency_id": "exploreworld-education-bangladesh",
+    "name": "ExploreWorld Education Bangladesh",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Narayanganj, Bangladesh",
+    "destination_countries": [
+      "UK",
+      "Australia",
+      "Canada",
+      "Germany"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:06:35.469233+00:00"
+  },
+  {
+    "agency_id": "meridian-education-consultancy-bd",
+    "name": "Meridian Education Consultancy BD",
+    "website": null,
+    "facebook_page": null,
+    "phone": null,
+    "address": "Bogura, Bangladesh",
+    "destination_countries": [
+      "Malaysia",
+      "China",
+      "Turkey",
+      "South Korea"
+    ],
+    "partner_universities_mentioned": [],
+    "source_urls": [
+      "curated_seed_list"
+    ],
+    "scraped_at": "2026-06-09T10:06:35.469233+00:00"
+  }
+]
