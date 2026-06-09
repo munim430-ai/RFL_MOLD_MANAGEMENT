@@ -1,0 +1,2659 @@
+[
+  {
+    "university_id": "kc-university",
+    "canonical_name": "KC University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "kcu.ac.kr",
+    "mentioned_by_agencies": [
+      "future-education-bangladesh",
+      "idp-education-bangladesh",
+      "aecc-global-bangladesh"
+    ],
+    "agency_mention_count": 3,
+    "hipo_matched": true,
+    "source_variants": [
+      "University",
+      "Universiti"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "future-education-skip-to-content-future-education-home-about-japan-student-visa-",
+    "canonical_name": "Future Education Skip to content Future Education Home About Japan Student Visa Japanese Language School University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "future-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Future Education Skip to content Future Education Home About Japan Student Visa Japanese Language School University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "services-japan-tourist-visa-japan-business-visa-our-story-contact-university",
+    "canonical_name": "Services Japan Tourist Visa Japan Business Visa Our Story Contact University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "future-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Services Japan Tourist Visa Japan Business Visa Our Story Contact University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "why-study-at-a-japanese-university",
+    "canonical_name": "Why Study at a Japanese University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "future-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Why Study at a Japanese University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "how-to-apply-choose-a-university",
+    "canonical_name": "How to Apply Choose a University",
+    "country": "USA",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "future-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "How to Apply Choose a University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "popularity-popularity-the-world-university-rankings-university",
+    "canonical_name": "Popularity Popularity THE World University Rankings University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Popularity Popularity THE World University Rankings University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-cambridge",
+    "canonical_name": "University of Cambridge",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "cam.ac.uk",
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": true,
+    "source_variants": [
+      "Cambridge University",
+      "University of Cambridge"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "view-details-california-state-university",
+    "canonical_name": "View details California State University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "View details California State University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "english-courses-available-view-details-james-madison-university",
+    "canonical_name": "English Courses available View details James Madison University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "English Courses available View details James Madison University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "english-courses-available-view-details-bentley-university",
+    "canonical_name": "English Courses available View details Bentley University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "English Courses available View details Bentley University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "english-courses-available-view-details-vanderbilt-university",
+    "canonical_name": "English Courses available View details Vanderbilt University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "English Courses available View details Vanderbilt University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "english-courses-available-view-details-university-of-essex-international-college",
+    "canonical_name": "English Courses available View details University of Essex International College",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "English Courses available View details University of Essex International College"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "english-courses-available-view-details-rhode-island-school-of",
+    "canonical_name": "English Courses available View details Rhode Island School of",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "English Courses available View details Rhode Island School of"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "world-university-rankings-complete-university",
+    "canonical_name": "World University Rankings Complete University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "idp-education-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "World University Rankings Complete University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "discover-aecc-partner-institut",
+    "canonical_name": "Discover AECC Partner Institut",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "aecc-global-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Discover AECC Partner Institut"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "find-out-where-you-can-study-in-australia-click-here-to-explore-universiti",
+    "canonical_name": "Find out where you can study in Australia Click Here to Explore Universiti",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "aecc-global-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Find out where you can study in Australia Click Here to Explore Universiti"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "green-card-conversion-find-out-where-you-can-study-in-ireland-click-here-to-expl",
+    "canonical_name": "Green Card Conversion Find out where you can study in Ireland Click Here to Explore Universiti",
+    "country": "Ireland",
+    "country_code": "IE",
+    "domain": null,
+    "mentioned_by_agencies": [
+      "aecc-global-bangladesh"
+    ],
+    "agency_mention_count": 1,
+    "hipo_matched": false,
+    "source_variants": [
+      "Green Card Conversion Find out where you can study in Ireland Click Here to Explore Universiti"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-oxford",
+    "canonical_name": "University of Oxford",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "oxford.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Oxford"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "imperial-college-london",
+    "canonical_name": "Imperial College London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "imperial.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Imperial College London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "linton-university-college",
+    "canonical_name": "Linton University College",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "linton.edu.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University College London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "london-school-of-economics",
+    "canonical_name": "London School of Economics",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "London School of Economics"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-manchester",
+    "canonical_name": "University of Manchester",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "manchester.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Manchester"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-edinburgh",
+    "canonical_name": "University of Edinburgh",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "ed.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Edinburgh"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-birmingham",
+    "canonical_name": "University of Birmingham",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "bham.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Birmingham"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-bristol",
+    "canonical_name": "University of Bristol",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "bristol.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Bristol"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "king-s-college-london",
+    "canonical_name": "King's College London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "King's College London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-glasgow",
+    "canonical_name": "University of Glasgow",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "gla.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Glasgow"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-warwick",
+    "canonical_name": "University of Warwick",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "warwick.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Warwick"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-southampton",
+    "canonical_name": "University of Southampton",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "soton.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Southampton"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-leeds",
+    "canonical_name": "University of Leeds",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "leeds.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Leeds"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "the-university-of-sheffield",
+    "canonical_name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "shef.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Sheffield"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-nottingham",
+    "canonical_name": "University of Nottingham",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "nottingham.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Nottingham"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-liverpool",
+    "canonical_name": "University of Liverpool",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "liv.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Liverpool"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-leicester",
+    "canonical_name": "University of Leicester",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "le.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Leicester"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "coventry-university",
+    "canonical_name": "Coventry University",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "coventry.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Coventry University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "de-montfort-university",
+    "canonical_name": "De Montfort University",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "De Montfort University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-hertfordshire",
+    "canonical_name": "University of Hertfordshire",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "herts.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Hertfordshire",
+      "University of Bedfordshire"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "middlesex-university-london",
+    "canonical_name": "Middlesex University - London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "mdx.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Middlesex University London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "london-metropolitan-university",
+    "canonical_name": "London Metropolitan University",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "londonmet.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "London Metropolitan University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-east-london",
+    "canonical_name": "University of East London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "uel.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of East London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-bolton",
+    "canonical_name": "University of Bolton",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "bolton.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Bolton"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-huddersfield",
+    "canonical_name": "University of Huddersfield",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "hud.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Huddersfield"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-salford",
+    "canonical_name": "University of Salford",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "salford.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Salford"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-london",
+    "canonical_name": "University of London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "london.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of West London"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "anglia-ruskin-university",
+    "canonical_name": "Anglia Ruskin University",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "domain": "anglia.ac.uk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Anglia Ruskin University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-toronto",
+    "canonical_name": "University of Toronto",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "utoronto.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Toronto"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-british-columbia",
+    "canonical_name": "University of British Columbia",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "ubc.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of British Columbia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "mcgill-university",
+    "canonical_name": "McGill University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "mcgill.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "McGill University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-alberta",
+    "canonical_name": "University of Alberta",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "ualberta.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Alberta"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-waterloo",
+    "canonical_name": "University of Waterloo",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "uwaterloo.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Waterloo"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "mcmaster-university",
+    "canonical_name": "McMaster University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "mcmaster.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "McMaster University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-ottawa",
+    "canonical_name": "University of Ottawa",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "uottawa.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Ottawa"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-calgary",
+    "canonical_name": "University of Calgary",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "ucalgary.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Calgary"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "york-university",
+    "canonical_name": "York University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "yorku.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "York University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "simon-fraser-university",
+    "canonical_name": "Simon Fraser University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "sfu.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Simon Fraser University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "dalhousie-university",
+    "canonical_name": "Dalhousie University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "dal.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Dalhousie University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-manitoba",
+    "canonical_name": "University of Manitoba",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "umanitoba.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Manitoba"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "carleton-university",
+    "canonical_name": "Carleton University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "carleton.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Carleton University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "anderson-university",
+    "canonical_name": "Anderson University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "andersonuniversity.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ryerson University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "concordia-university",
+    "canonical_name": "Concordia University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "concordia.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Concordia University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-regina",
+    "canonical_name": "University of Regina",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "uregina.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Regina"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-windsor",
+    "canonical_name": "University of Windsor",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "uwindsor.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Windsor"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "brock-university",
+    "canonical_name": "Brock University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "brocku.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Brock University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "lakehead-university",
+    "canonical_name": "Lakehead University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "lakeheadu.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Lakehead University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "nipissing-university",
+    "canonical_name": "Nipissing University",
+    "country": "Canada",
+    "country_code": "CA",
+    "domain": "nipissingu.ca",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Nipissing University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-melbourne",
+    "canonical_name": "University of Melbourne",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "unimelb.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Melbourne"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-sydney",
+    "canonical_name": "University of Sydney",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "sydney.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Sydney"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "australian-national-university",
+    "canonical_name": "Australian National University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "anu.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Australian National University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-queensland",
+    "canonical_name": "University of Queensland",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "uq.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Queensland"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "monash-university",
+    "canonical_name": "Monash University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "monash.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Monash University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-new-south-wales",
+    "canonical_name": "University of New South Wales",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "unsw.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of New South Wales"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-adelaide",
+    "canonical_name": "University of Adelaide",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "adelaide.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Adelaide"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-western-australia",
+    "canonical_name": "University of Western Australia",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "uwa.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Western Australia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-technology-sydney",
+    "canonical_name": "University of Technology Sydney",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "uts.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Technology Sydney"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "amity-university",
+    "canonical_name": "Amity University",
+    "country": "India",
+    "country_code": "IN",
+    "domain": "amity.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "RMIT University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "deakin-university",
+    "canonical_name": "Deakin University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "deakin.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Deakin University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "la-trobe-university",
+    "canonical_name": "La Trobe University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "latrobe.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "La Trobe University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "griffith-university",
+    "canonical_name": "Griffith University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "griffith.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Griffith University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "james-cook-university",
+    "canonical_name": "James Cook University",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "James Cook University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "macquarie-university",
+    "canonical_name": "Macquarie University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "mq.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Macquarie University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "curtin-university",
+    "canonical_name": "Curtin University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "curtin.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Curtin University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "lander-university",
+    "canonical_name": "Lander University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "lander.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Flinders University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "western-sydney-university",
+    "canonical_name": "Western Sydney University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "westernsydney.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Western Sydney University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "charles-darwin-university",
+    "canonical_name": "Charles Darwin University",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "cdu.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Charles Darwin University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-tasmania",
+    "canonical_name": "University of Tasmania",
+    "country": "Australia",
+    "country_code": "AU",
+    "domain": "utas.edu.au",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Tasmania"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "massachusetts-institute-of-technology",
+    "canonical_name": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "mit.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Massachusetts Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "stanford-university",
+    "canonical_name": "Stanford University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "stanford.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Stanford University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "harvard-university",
+    "canonical_name": "Harvard University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "harvard.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Harvard University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "california-institute-of-technology",
+    "canonical_name": "California Institute of Technology",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "caltech.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "California Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-chicago",
+    "canonical_name": "University of Chicago",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "uchicago.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Chicago"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "columbia-university",
+    "canonical_name": "Columbia University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "columbia.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Columbia University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "yale-university",
+    "canonical_name": "Yale University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "yale.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Yale University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "princeton-university",
+    "canonical_name": "Princeton University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "princeton.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Princeton University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "cornell-university",
+    "canonical_name": "Cornell University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "cornell.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Cornell University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-michigan-flint",
+    "canonical_name": "University of Michigan-Flint",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "umflint.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Michigan"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "new-york-university",
+    "canonical_name": "New York University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "nyu.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "New York University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-california-los-angeles",
+    "canonical_name": "University of California, Los Angeles",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "ucla.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of California Los Angeles"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-california-berkeley",
+    "canonical_name": "University of California, Berkeley",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "berkeley.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of California Berkeley"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "georgia-institute-of-technology",
+    "canonical_name": "Georgia Institute of Technology",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "gatech.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Georgia Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "the-university-of-texas-at-austin",
+    "canonical_name": "The University of Texas at Austin",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "utexas.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Texas at Austin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-illinois-urbana-champaign",
+    "canonical_name": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "uiuc.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Illinois Urbana-Champaign"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "purdue-university",
+    "canonical_name": "Purdue University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "purdue.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Purdue University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "pennsylvania-state-university",
+    "canonical_name": "Pennsylvania State University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "psu.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Pennsylvania State University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "imo-state-university",
+    "canonical_name": "Imo State University",
+    "country": "Nigeria",
+    "country_code": "XX",
+    "domain": "imsu.edu.ng",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ohio State University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-washington",
+    "canonical_name": "University of Washington",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "uw.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Washington"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ho-technical-university",
+    "canonical_name": "Ho Technical University",
+    "country": "Ghana",
+    "country_code": "XX",
+    "domain": "htu.edu.gh",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Technical University of Munich"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ludwig-maximilians-universitat-munchen",
+    "canonical_name": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "country_code": "DE",
+    "domain": "lmu.de",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ludwig Maximilian University of Munich"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "heidelberg-university",
+    "canonical_name": "Heidelberg University",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "Heidelberg University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "humboldt-universitat-berlin",
+    "canonical_name": "Humboldt Universität Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "domain": "hu-berlin.de",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Humboldt University of Berlin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "free-university-of-bozen",
+    "canonical_name": "Free University of Bozen",
+    "country": "Italy",
+    "country_code": "IT",
+    "domain": "unibz.it",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Free University of Berlin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "rwth-aachen-university",
+    "canonical_name": "RWTH Aachen University",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "RWTH Aachen University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-luxemburg",
+    "canonical_name": "University of Luxemburg",
+    "country": "Luxembourg",
+    "country_code": "XX",
+    "domain": "uni.lu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Hamburg"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-frankfurt",
+    "canonical_name": "University of Frankfurt",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "University of Frankfurt"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-bologna",
+    "canonical_name": "University of Bologna",
+    "country": "Italy",
+    "country_code": "IT",
+    "domain": "unibo.it",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Cologne"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "universitat-stuttgart",
+    "canonical_name": "Universität Stuttgart",
+    "country": "Germany",
+    "country_code": "DE",
+    "domain": "uni-stuttgart.de",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Stuttgart"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "kurume-institute-of-technology",
+    "canonical_name": "Kurume Institute of Technology",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "kurume-it.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Karlsruhe Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "technical-university-of-lublin",
+    "canonical_name": "Technical University of Lublin",
+    "country": "Poland",
+    "country_code": "XX",
+    "domain": "pol.lublin.pl",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Technical University of Berlin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-malta",
+    "canonical_name": "University of Malta",
+    "country": "Malta",
+    "country_code": "XX",
+    "domain": "um.edu.mt",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Malaya"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "universiti-putra-malaysia",
+    "canonical_name": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "upm.edu.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Universiti Putra Malaysia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "universiti-kebangsaan-malaysia",
+    "canonical_name": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "ukm.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Universiti Kebangsaan Malaysia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "universiti-teknologi-malaysia",
+    "canonical_name": "Universiti Teknologi Malaysia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "utm.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Universiti Teknologi Malaysia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "universiti-sains-malaysia",
+    "canonical_name": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "usm.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Universiti Sains Malaysia"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "taylor-university",
+    "canonical_name": "Taylor University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "tayloru.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Taylor's University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "multimedia-university",
+    "canonical_name": "Multimedia University",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "mmu.edu.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Multimedia University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "inti-international-university",
+    "canonical_name": "INTI International University",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "domain": "newinti.edu.my",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "INTI International University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "azusa-pacific-university",
+    "canonical_name": "Azusa Pacific University",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "apu.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Asia Pacific University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "sunway-university",
+    "canonical_name": "Sunway University",
+    "country": "Unknown",
+    "country_code": "XX",
+    "domain": null,
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": false,
+    "source_variants": [
+      "Sunway University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "seoul-national-university",
+    "canonical_name": "Seoul National University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "snu.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Seoul National University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "korea-advanced-institute-of-science-technology",
+    "canonical_name": "Korea Advanced Institute of Science & Technology",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "kaist.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Korea Advanced Institute of Science and Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "yonsei-university",
+    "canonical_name": "Yonsei University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "yonsei.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Yonsei University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "korea-university",
+    "canonical_name": "Korea University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "korea.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Korea University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "sungkyunkwan-university",
+    "canonical_name": "Sungkyunkwan University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "skku.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Sungkyunkwan University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "hanyang-university",
+    "canonical_name": "Hanyang University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "hanyang.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Hanyang University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ewha-womans-university",
+    "canonical_name": "Ewha Womans University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "ewha.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ewha Womans University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "sogang-university",
+    "canonical_name": "Sogang University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "sogang.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Sogang University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "inha-university",
+    "canonical_name": "Inha University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "inha.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Inha University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "kyung-hee-university",
+    "canonical_name": "Kyung Hee University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "khu.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Kyung Hee University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ajou-university",
+    "canonical_name": "Ajou University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "ajou.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ajou University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "konkuk-university",
+    "canonical_name": "Konkuk University",
+    "country": "Korea, Republic of",
+    "country_code": "XX",
+    "domain": "konkuk.ac.kr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Konkuk University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-tokyo",
+    "canonical_name": "University of Tokyo",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "u-tokyo.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Tokyo"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "kyoto-university",
+    "canonical_name": "Kyoto University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "kyoto-u.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Kyoto University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "osaka-university",
+    "canonical_name": "Osaka University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "osaka-u.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Osaka University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "tohoku-university",
+    "canonical_name": "Tohoku University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "tohoku.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Tohoku University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "tokyo-institute-of-technology",
+    "canonical_name": "Tokyo Institute of Technology",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "titech.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Tokyo Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "nagoya-university",
+    "canonical_name": "Nagoya University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "nagoya-u.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Nagoya University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "kyushu-university",
+    "canonical_name": "Kyushu University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "kyushu-u.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Kyushu University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "waseda-university",
+    "canonical_name": "Waseda University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "waseda.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Waseda University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "keio-university",
+    "canonical_name": "Keio University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "a2.keio.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Keio University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ritsumeikan-university",
+    "canonical_name": "Ritsumeikan University",
+    "country": "Japan",
+    "country_code": "JP",
+    "domain": "ritsumei.ac.jp",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ritsumeikan University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "middle-east-technical-university",
+    "canonical_name": "Middle East Technical University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "metu.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Middle East Technical University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "bilkent-university",
+    "canonical_name": "Bilkent University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "bilkent.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Bilkent University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "bogazici-university",
+    "canonical_name": "Boğaziçi University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "bogazici.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Bogazici University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "istanbul-technical-university",
+    "canonical_name": "Istanbul Technical University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "itu.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Istanbul Technical University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "hacettepe-university",
+    "canonical_name": "Hacettepe University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "hun.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Hacettepe University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "istanbul-university",
+    "canonical_name": "Istanbul University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "istanbul.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Istanbul University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "ankara-university",
+    "canonical_name": "Ankara University",
+    "country": "Turkiye",
+    "country_code": "XX",
+    "domain": "ankara.edu.tr",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Ankara University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-auckland",
+    "canonical_name": "University of Auckland",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "auckland.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Auckland"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "victoria-university-of-wellington",
+    "canonical_name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "vuw.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Victoria University of Wellington"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-canterbury",
+    "canonical_name": "University of Canterbury",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "canterbury.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Canterbury"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-otago",
+    "canonical_name": "University of Otago",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "otago.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Otago"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "massey-university",
+    "canonical_name": "Massey University",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "massey.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Massey University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "auckland-university-of-technology",
+    "canonical_name": "Auckland University of Technology",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "domain": "aut.ac.nz",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Auckland University of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "peking-university",
+    "canonical_name": "Peking University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "pku.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Peking University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "tsinghua-university",
+    "canonical_name": "Tsinghua University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "tsinghua.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Tsinghua University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "fudan-university",
+    "canonical_name": "Fudan University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "fudan.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Fudan University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "zhejiang-university",
+    "canonical_name": "Zhejiang University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "zju.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Zhejiang University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "shanghai-jiao-tong-university",
+    "canonical_name": "Shanghai Jiao Tong University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "en.sjtu.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Shanghai Jiao Tong University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "nanjing-university",
+    "canonical_name": "Nanjing University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "nju.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Nanjing University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "tongji-university",
+    "canonical_name": "Tongji University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "tongji.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Tongji University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "wuhan-university",
+    "canonical_name": "Wuhan University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "whu.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Wuhan University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "harbin-institute-of-technology",
+    "canonical_name": "Harbin Institute of Technology",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "hit.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Harbin Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "xi-an-jiaotong-university",
+    "canonical_name": "Xi'an Jiaotong University",
+    "country": "China",
+    "country_code": "CN",
+    "domain": "xjtu.edu.cn",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Xi'an Jiaotong University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "trinity-college-dc",
+    "canonical_name": "Trinity College (DC)",
+    "country": "United States",
+    "country_code": "US",
+    "domain": "trinitydc.edu",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Trinity College Dublin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-college-dublin",
+    "canonical_name": "University College Dublin",
+    "country": "Ireland",
+    "country_code": "IE",
+    "domain": "ucd.ie",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University College Dublin"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-college-cork",
+    "canonical_name": "University College Cork",
+    "country": "Ireland",
+    "country_code": "IE",
+    "domain": "ucc.ie",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University College Cork"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "national-university-of-ireland",
+    "canonical_name": "National University of Ireland",
+    "country": "Ireland",
+    "country_code": "IE",
+    "domain": "nui.ie",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "National University of Ireland Galway"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "dublin-city-university",
+    "canonical_name": "Dublin City University",
+    "country": "Ireland",
+    "country_code": "IE",
+    "domain": "dcu.ie",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Dublin City University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "stockholm-university",
+    "canonical_name": "Stockholm University",
+    "country": "Sweden",
+    "country_code": "SE",
+    "domain": "su.se",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Stockholm University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "uppsala-university",
+    "canonical_name": "Uppsala University",
+    "country": "Sweden",
+    "country_code": "SE",
+    "domain": "uu.se",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Uppsala University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "lund-university",
+    "canonical_name": "Lund University",
+    "country": "Sweden",
+    "country_code": "SE",
+    "domain": "lu.se",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Lund University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "chalmers-university-of-technology",
+    "canonical_name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "country_code": "SE",
+    "domain": "chalmers.se",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Chalmers University of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "kth-royal-institute-of-technology",
+    "canonical_name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "country_code": "SE",
+    "domain": "kth.se",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "KTH Royal Institute of Technology"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-oslo",
+    "canonical_name": "University of Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "domain": "uio.no",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Oslo"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-bergen",
+    "canonical_name": "University of Bergen",
+    "country": "Norway",
+    "country_code": "NO",
+    "domain": "uib.no",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Bergen"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "university-of-helsinki",
+    "canonical_name": "University of Helsinki",
+    "country": "Finland",
+    "country_code": "FI",
+    "domain": "helsinki.fi",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "University of Helsinki"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "aalto-university",
+    "canonical_name": "Aalto University",
+    "country": "Finland",
+    "country_code": "FI",
+    "domain": "aalto.fi",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Aalto University"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  },
+  {
+    "university_id": "technical-university-of-denmark",
+    "canonical_name": "Technical University of Denmark",
+    "country": "Denmark",
+    "country_code": "DK",
+    "domain": "dtu.dk",
+    "mentioned_by_agencies": [],
+    "agency_mention_count": 0,
+    "hipo_matched": true,
+    "source_variants": [
+      "Technical University of Denmark"
+    ],
+    "scraped_at": "2026-06-09T10:12:51.503685+00:00"
+  }
+]

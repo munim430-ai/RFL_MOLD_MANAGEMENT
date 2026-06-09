@@ -1,0 +1,121 @@
+{
+  "investigation": {
+    "target": "bdbetsolution.com",
+    "date": "2026-06-09",
+    "purpose": "Bangladesh CID Cyber Police Centre — illegal gambling network mapping"
+  },
+  "server": {
+    "ip": "172.105.56.131",
+    "asn": "AS63949",
+    "provider": "Akamai Connected Cloud (Linode)",
+    "location": "Mumbai, Maharashtra, India",
+    "rdns": "172-105-56-131.ip.linodeusercontent.com",
+    "stack": "Apache/2.4.41 (Ubuntu) + PHP + Node.js/Express",
+    "open_ports": [80, 443],
+    "cve_count": 90
+  },
+  "operator": {
+    "email": "bdbetsolution@gmail.com",
+    "phone_whatsapp": "+971557785416",
+    "phone_country": "UAE",
+    "telegram": "@bdbetsolution",
+    "facebook": "facebook.com/bdbetsolution",
+    "instagram": "bdbetsolutionofficial",
+    "youtube": "@Bdbetssolution"
+  },
+  "domains": [
+    {
+      "domain": "bdbetsolution.com",
+      "role": "Primary B2B white-label betting platform provider targeting Bangladesh",
+      "ip": "172.105.56.131",
+      "nameservers": ["ns35.domaincontrol.com", "ns36.domaincontrol.com"],
+      "registrar_dns": "GoDaddy",
+      "ssl_renewed": "2026-05-18",
+      "tracking_ids": {
+        "google_analytics": "G-PTC22BRC8J",
+        "google_tag_manager": "GTM-MVF3XG4M",
+        "google_ads": "AW-16724438971"
+      },
+      "admin_panel": "https://bdbetsolution.com/admin/login",
+      "languages": ["English", "Bengali"]
+    },
+    {
+      "domain": "play.sky247.bet",
+      "role": "White-label Sky247 gambling clone — operated by same BDBETS entity",
+      "ip": "172.105.56.131",
+      "tracking_ids": {
+        "google_ads": "AW-16724438971"
+      },
+      "link_proof": "Shared Google Ads ID AW-16724438971 + 'BDBETS' branding + bdbetsolution@gmail.com on page"
+    },
+    {
+      "domain": "bettingsolutions.in",
+      "role": "Gambling API supplier (Casino, Score, Odds, Fancy, Betfair APIs)",
+      "ip": "172.105.56.131",
+      "contact_email": "info@bettingsolutions.in",
+      "contact_phone": "+971557785416",
+      "link_proof": "Identical UAE phone number to bdbetsolution.com operator",
+      "tracking_ids": {
+        "google_analytics": "G-1LD07KC3FB",
+        "google_tag_manager": "GTM-MGD7X67X"
+      }
+    },
+    {
+      "domain": "ctfc.in",
+      "role": "B2B Sports Betting Website Provider in Bangladesh/India",
+      "ip": "172.105.56.131",
+      "contact_email": "info@ctfc.in",
+      "contact_phone": "+17163749919",
+      "telegram_channels": ["t.me/ctfcplay", "t.me/justforctfc"],
+      "active_subdomains": ["demouser.ctfc.in", "websitedata.ctfc.in"],
+      "tracking_ids": {
+        "google_analytics": "G-MV496SX2BD",
+        "google_tag_manager": "GTM-55327N4S"
+      }
+    },
+    {
+      "domain": "delhibook.live",
+      "role": "Cricket bookmaker (DelhiBook)",
+      "ip": "172.105.56.131",
+      "active_subdomains": [
+        "admin.delhibook.live",
+        "book.delhibook.live",
+        "www.delhibook.live"
+      ],
+      "admin_panel": "https://admin.delhibook.live",
+      "admin_tech": "Node.js/Express"
+    }
+  ],
+  "white_label_products_sold": [
+    "Playsta", "Stake", "Babu88", "Sky247", "7Wicket",
+    "SkyExch", "Jeetwin", "Takabet11", "Jita", "Betjili",
+    "Betvisa", "Elon-Bet", "Sportsbet", "Krikya22", "Velki"
+  ],
+  "legal_process_targets": [
+    {
+      "entity": "Akamai/Linode",
+      "request": "Subscriber records for IP 172.105.56.131",
+      "jurisdiction": "USA"
+    },
+    {
+      "entity": "GoDaddy",
+      "request": "Domain registrant records for bdbetsolution.com",
+      "jurisdiction": "USA"
+    },
+    {
+      "entity": "Google LLC",
+      "request": "Account holder for bdbetsolution@gmail.com + Ads account AW-16724438971",
+      "jurisdiction": "USA"
+    },
+    {
+      "entity": "UAE Telecom Regulator (TRA)",
+      "request": "Subscriber identity for +971557785416",
+      "jurisdiction": "UAE"
+    },
+    {
+      "entity": "Telegram",
+      "request": "Content preservation + account records for @bdbetsolution, ctfcplay, justforctfc",
+      "jurisdiction": "UAE/International"
+    }
+  ]
+}
